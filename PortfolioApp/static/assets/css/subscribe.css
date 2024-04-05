@@ -1,0 +1,12 @@
+.sub{
+    padding: 7% 0% ;
+}
+textarea{
+    background-color: black;
+    color: #fd4800;
+    padding: 1%;    
+    font-family: sans-serif;
+}
+label{
+    color: #fd4800;
+}

@@ -1,0 +1,17 @@
+body{
+    background: black;
+}
+#fm input{
+    height: 35px;
+    color: #ffff;
+}
+
+#fm input::placeholder{
+    color: #757575;
+}
+.form-controlsmg{
+    color: #ffff;
+}
+.new-container{
+    color: #ffff;
+}
